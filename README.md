@@ -1,16 +1,27 @@
-## Hi there 👋
+# Привет, я KiaSHi8! 👋
 
-<!--
-**KiaSHi8/KiaSHi8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 Обо мне
+Я начинающий разработчик на **C#** и исследователь **Kali Linux**. Сейчас активно расширяю свои навыки:
+* 🌐 Изучаю **HTML** для создания веб-интерфейсов.
+* 🐳 Осваиваю **Docker** для контейнеризации приложений.
+* ☕ Имею базовые знания **Java**.
 
-Here are some ideas to get you started:
+Летом 2024 открыт для предложений по фрилансу и стажировкам!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Мой стек технологий
+![C#](https://shields.io) 
+![.NET](https://shields.io) 
+![Java](https://shields.io)
+![HTML5](https://shields.io)
+![Docker](https://shields.io)
+![Kali Linux](https://shields.io)
+
+### 📂 Избранные проекты
+* 🎖️ **[Military Rank Trainer](https://github.com)** — Интерактивный тренажер погонов на C#. Мой первый проект с открытым исходным кодом.
+
+### 📊 Статистика активности
+![KiaSHi8's GitHub stats](https://vercel.app)
+
+### 💬 Как со мной связаться
+* **Telegram:** [@Kiashi8]
+
