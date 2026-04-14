@@ -23,6 +23,6 @@ I am a junior developer focusing on **C#** and **Kali Linux**. Currently expandi
 ![KiaSHi8's GitHub stats](https://vercel.app)
 
 ### 💬 Contact / Контакты
-* **Telegram:** [@твой_ник_в_телеге]
+* **Telegram:** [@Kiashi8]
 
 
