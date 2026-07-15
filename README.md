@@ -24,6 +24,6 @@ I am a junior developer focusing on **C#** ; **Kali Linux** ; **Rust** and **HTM
 
 ### 💬 Contact / Контакты
 * **Telegram:** [@Kiashi8]
-*  **TG Chanel:** [https://tt.me/Osu_Kioshi8]
+*  **TG Chanel:** [https://t.me/Osu_Kioshi8]
 
 
