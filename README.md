@@ -1,7 +1,7 @@
 # Hi there, I'm KiaSHi8! 👋
 
 ### 👨‍💻 About Me / Обо мне
-I am a junior developer focusing on **C#** and **Kali Linux**. Currently expanding my skillset:
+I am a junior developer focusing on **C#** ; **Kali Linux** ; **Rust** and **HTML**. Currently expanding my skillset:
 * 🌐 Learning **HTML** for web development.
 * 🐳 Exploring **Docker** for containerization.
 * ☕ Basic knowledge of **Java**.
@@ -24,5 +24,6 @@ I am a junior developer focusing on **C#** and **Kali Linux**. Currently expandi
 
 ### 💬 Contact / Контакты
 * **Telegram:** [@Kiashi8]
+*  **TG Chanel:** [https://tt.me/Osu_Kioshi8]
 
 
